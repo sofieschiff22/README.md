@@ -5,5 +5,6 @@ Some personal achievements I have are almost making varsity as a sophomore, and 
 
 In the summer, I traveled to Hawaii for the first time. My family and I went to Maui. I went snorkeling, which was super cool because I saw a lot of fish and even a turtle. I also went on a 6 rope course ziplining, which was super cool even though I am afraid of heights. Another excursion that I did while in Hawaii was a helicopter ride. We went through Maui and even went to another island. While in the helicopter, the pilot also brought us to areas where Jurassic park was filmed. Going to Hawaii was also one of my most memorable moments because it was my first time in Hawaii.
 
+play.spotify [https://open.spotify.com/playlist/28HzJKLj8jfnuydaoPbKTq]
 
 <img width="1728" height="2304" alt="Untitled design" src="https://github.com/user-attachments/assets/e71a46b0-43e1-4059-a955-f419a2648c5a" />
